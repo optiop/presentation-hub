@@ -17,12 +17,17 @@ mdc: true
 
 ## Code Tek - Esfahan, Iran
 
-<br /> 
+<br />
 
 ### Afra Gerami - Fullstack Developer
+
 ### Farshad Sarmali - Backend Software Engineer
+
 ### Mehrshad Lotfi - DevOps Engineer
 
+<div class="flex flex-row justify-center items-center  w-full py-4" >
+<img size="20" src="/favicon.png"/>
+</div>
 April 15, 2025
 
 ---
@@ -33,8 +38,7 @@ src: ./sections/intro.md
 ---
 transition: slide-left
 src: ./sections/demo.md
----
-
+--- 
 
 ---
 transition: slide-left
